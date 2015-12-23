@@ -1,2 +1,2 @@
 #!/bin/sh
-exec polipo
+exec polipo proxyAddress=0.0.0.0
